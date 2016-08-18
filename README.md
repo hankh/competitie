@@ -1,0 +1,3 @@
+# competitie
+competitie indelen
+schaken
