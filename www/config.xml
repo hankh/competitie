@@ -7,6 +7,7 @@
     <author email="hankhoving@gmail.com" href="http://www.harena.nl">
         Hank Hoving
     </author>
+    <platform name="android" />
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="cli-6.3.0" />
     <preference name="orientation" value="default" />
